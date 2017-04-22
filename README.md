@@ -10,7 +10,7 @@ This is a template to get started with React. Repo contains create-react-app for
   - `npm i auth0-react-scripts`
 - material ui
   - `npm install material-ui`
-- create .env file and add your auth0 domain and client id, follow format below
+- create .env file in the root of your app and add your auth0 domain and client id, follow format below
   - REACT_APP_AUTH0_CLIENT_ID=YOUR_CLIENT_ID
   - REACT_APP_AUTH0_DOMAIN=YOUR_DOMAIN
 - `npm install`
