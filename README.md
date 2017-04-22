@@ -22,4 +22,3 @@ This is a template to get started with React. Repo contains create-react-app for
 - `npm start`
 
 #### If you need to download any additional packages please reference the package.json file.
-
