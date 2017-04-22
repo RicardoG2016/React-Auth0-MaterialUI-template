@@ -16,7 +16,8 @@ This is a template to get started with React. Repo contains create-react-app for
   - `REACT_APP_AUTH0_DOMAIN=YOUR_DOMAIN`
 
 #### To start app:
-- `git clone `
+- `git clone https://github.com/RicardoG2016/React-Auth0-MaterialUI-template.git`
+- cd into repo 
 - `npm install`
 - `npm start`
 
