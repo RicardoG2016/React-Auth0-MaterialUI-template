@@ -1,0 +1,31 @@
+{
+  "name": "react-auth0-materialui-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "auth0-lock": "^10.14.0",
+    "create-react-app-sass": "^1.1.0",
+    "history": "^1.17.0",
+    "dotenv": "^4.0.0",
+    "events": "^1.1.1",
+    "express": "^4.15.2",
+    "express-jwt": "^5.3.0",
+    "jwt-decode": "^2.2.0",
+    "react": "^15.5.4",
+    "react-router": "^3.0.2",
+    "react-scripts": "0.9.5",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5",
+    "auth0-react-scripts": "0.6.20"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
