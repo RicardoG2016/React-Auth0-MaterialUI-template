@@ -16,7 +16,8 @@ class Home extends Component {
     return (
         <div className="Home">
           <div style={homeIntro}>
-            Create landing Page to show here.
+            <h1>Create landing Page to show here</h1>
+            <p>Reminder: Make sure to create .env file in the root of your app to use Auth0.</p>
           </div>
         </div>
     );

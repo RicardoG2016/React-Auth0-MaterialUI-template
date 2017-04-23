@@ -6,6 +6,8 @@ import Home from './components/home/Home';
 import Login from './auth0/Login';
 import EditProfile from './components/profile/EditProfile';
 
+// Add the routes you'd like below
+
 class Routes extends Component {
   render() {
     return (

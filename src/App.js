@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import Routes from './routes';
 import {red500} from 'material-ui/styles/colors';
-import FlatButton from 'material-ui/FlatButton';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 

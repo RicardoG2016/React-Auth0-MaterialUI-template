@@ -48,7 +48,7 @@ class Nav extends Component {
     <div>
         <AppBar
           style={{backgroundColor: red500}}
-          title="Peribit Jobs"
+          title="Title"
           iconElementLeft={<IconButton></IconButton>}
           iconElementRight={this.props.profile ? <Logged /> : <Login />}
         />
