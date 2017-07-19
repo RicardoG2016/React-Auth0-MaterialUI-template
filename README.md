@@ -22,3 +22,9 @@ This is a template to get started with React. Repo contains create-react-app for
 - `npm start`
 
 #### If you need to download any additional packages please reference the package.json file.
+
+![alt text](https://user-images.githubusercontent.com/20272116/28389756-1a731f06-6c9d-11e7-8245-7bd02d21a059.png)
+
+![alt text](https://user-images.githubusercontent.com/20272116/28389764-1ccba76e-6c9d-11e7-8c7e-a351a97e08a4.png)
+
+![alt text](https://user-images.githubusercontent.com/20272116/28389774-2194e2f6-6c9d-11e7-8d6d-0543ecaad3cb.png)
